@@ -81,6 +81,13 @@ sudo apt-get install neofetch
 neofetch --ascii_colors 6 7 --colors 2 2 2 2
 ```
 
+## Anaconda
+
+```
+source /anaconda3/bin/activate
+conda init zsh
+```
+
 ## Reset the changes back to the old terminal.
 
 There's two main modifications being done to the terminal. The terminal theme, and the shell itself.
