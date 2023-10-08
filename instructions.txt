@@ -1,0 +1,39 @@
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+```
+
+Put in username and password(Personal access token)
+
+```
+git config --global credential.helper cache
+```
+
+
+sudo apt install zsh
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+
+````
+
+
+
+```
+git clone https://github.com/ibnyusrat/my-linux-setup
+```
+
+move fonts to /home/.fonts
+
+
+sudo apt install gnome-tweaks
+
+open gome-tweaks change font to monlts regular
+
+
+
