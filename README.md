@@ -73,7 +73,7 @@ You may now restart the terminal and go into preferences to modify any existing 
 
 How to display terminal information (I use Neofetch).
 
-```
+```bash
 sudo apt-get install neofetch
 
 # Display the profile
