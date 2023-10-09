@@ -4,7 +4,7 @@
 
 # Prerequisites
 
-```
+```bash
 # Update your software repositories.
 sudo apt-get update
 sudo apt-get upgrade
