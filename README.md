@@ -18,7 +18,7 @@ sudo apt-get install -y vim
 
 # Installation
 
-```
+```bash
 # Install Zsh.
 sudo apt install zsh
 
